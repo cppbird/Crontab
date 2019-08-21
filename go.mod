@@ -1,3 +1,3 @@
-module github.com/cppbird/cron/v4
+module github.com/cppbird/crontab/v4
 
 go 1.12
